@@ -1,4 +1,4 @@
-# maze-generator
+# Maze Generator by Pooja Balachandran
 
 Clone this repository and open it in VSCode.
 
