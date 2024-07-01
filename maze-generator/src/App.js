@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Random Maze Generator</h1>
-      <Maze size={24}/>
+      <Maze size={5}/>
     </div>
   );
 }
