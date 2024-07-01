@@ -4,6 +4,7 @@ Clone this repository and open it in VSCode.
 
 
 To run the application:
+- Ensure latest version of node is installed.
 - Change to directory maze-generator (cd maze-generator)
 - Run 'npm i' or 'npm install'
 - Run 'npm start' to run the application after the installation is complete.
