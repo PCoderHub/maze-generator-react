@@ -11,3 +11,6 @@ To run the application, open terminal and:
 
 
 To change the size of the maze, change the size property of Maze component inside maze-generator/src/App.js file.
+
+
+Deployed app: https://66c3803c04e473199c24b9b6--profound-empanada-ae350a.netlify.app/
