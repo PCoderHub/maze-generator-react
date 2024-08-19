@@ -3,8 +3,8 @@ import './Maze.css';
 
 const Maze = ({size}) => {
 
-    const rows = size;
-    const cols = size;
+  const rows = size;
+  const cols = size;
 
   const [maze, setMaze] = useState([]);
 
